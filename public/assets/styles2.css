@@ -1,0 +1,13 @@
+body{
+width: 100%;
+}
+h1,li{
+}
+li:hover{
+    text-decoration: line-through;
+    color: red;
+}
+ul{
+    list-style-type: none;
+
+}
